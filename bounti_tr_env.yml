@@ -1,0 +1,4 @@
+name: bounti-tr
+channels:
+  - defaults
+prefix: /home/hs21/miniconda3/envs/bounti-tr
